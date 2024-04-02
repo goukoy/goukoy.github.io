@@ -1,0 +1,257 @@
+﻿
+BODY
+{
+	color: #000066;
+	background-color: White;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	font-size: 10pt;
+	padding-top: 0px;
+	font-family: Verdana;
+}
+
+
+.background
+{
+	background-color: transparent;
+}
+
+.calendar
+{
+	border-right: #000066 thin solid;
+	border-top: #000066 thin solid;
+	border-left: #000066 thin solid;
+	border-bottom: #000066 thin solid;
+}
+
+.calendarheader
+{
+	color: white;
+	background-color: #000066;
+	font-size: 18pt;
+	/*background-image: url(images/gssatesting2samp.JPG);*/
+}
+.calendarothermonthday
+{
+	color: black;
+	background-color: #a9a9a9;
+	border-right: black thin solid;
+	border-top: black thin solid;
+	border-left: black thin solid;
+	border-bottom: black thin solid;
+}
+.calendarselectedday
+{
+	color: white;
+	background-color: #800080;
+}
+
+.calendarnextprev
+{
+	
+}
+
+/*formTable*/
+.formTable
+{
+	/*
+	border-right: #cc0066 thick groove;
+	border-top: #cc0066 thick groove;
+	border-left: #cc0066 thick groove;
+	border-bottom: #cc0066 thick groove;
+    */
+}
+.grid
+{
+	
+}
+.gridHeader
+{
+	
+}
+.gridHeaderLeftItem
+{
+	background-position: left center;
+	background-image: url(images/RoundLeftSideSmall.JPG);
+	background-repeat: no-repeat;
+	background-color: #000066;
+	color: White;
+	text-decoration: underline;
+}
+.gridHeaderRightItem
+{
+	background-position: right center;
+	background-image: url(images/RoundRightSideSmall.JPG);
+	background-repeat: no-repeat;
+	background-color: #000066;
+	color: White;
+	text-decoration: underline;
+}
+
+.gridHeaderMiddleItem
+{
+	background-color: #000066;
+	color: White;
+	text-decoration: underline;
+}
+
+.gridRowStyle
+{
+}
+.gridAlternatingRowStyle
+{
+	background-color: #e6e6fa;
+}
+.menuLabelMousedOverMiddle
+{
+	background-color: white;
+	color: #000066;
+	text-decoration: underline;
+}
+.menuLabelNotSelectedMiddle
+{
+	color: White;
+	background-color: #000066; 	
+}
+.menuLabelMousedOverLeft
+{
+	background-color: white;
+	color: #000066;	
+	text-decoration: underline;
+}
+.menuLabelNotSelectedLeft
+{
+	background-position: left 50%;
+	background-image: url(images/RoundLeftSideSmall.JPG);
+	background-repeat: no-repeat;
+	background-color: #000066;
+	color: White;	
+}
+.menuLabelMousedOverRight
+{
+	background-color: White;
+	color: #000066;
+	text-decoration: underline;		
+}
+.menuLabelNotSelectedRight
+{
+	background-position: right center;
+	background-image: url(images/RoundRightSideSmall.JPG);
+	background-repeat: no-repeat;
+	background-color: #000066;
+	color: White;	
+}
+
+.mmenuOff1
+{
+	background: #0038AD;
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: bold;
+	font-family: arial,tahoma,serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 3px;
+	text-decoration: none;
+} 
+      
+.mmenuOn1
+{
+	background: #ffffff;
+	color: #0038AD;
+	font-style: normal;
+	font-weight: bold;
+	font-family: arial,tahoma,serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 3px;
+	text-decoration: none;
+}	 
+
+    
+.mmenuOn1page
+{
+	background: #ffffff;
+	color: #00349A;
+	font-style: normal;
+	font-weight: bold;
+	font-family: arial,tahoma,serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 3px;
+	text-decoration: none;
+}	
+
+.mmenuOff1page
+{
+	background: #00349A;
+	color: #ffffff;
+	font-style: normal;
+	font-weight: bold;
+	font-family: arial,tahoma,serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 3px;
+	text-decoration: none;
+}
+
+.tCDescription
+{
+	background-position: left 50%;
+	background-image: url(images/RoundLeftSideSmall.JPG);
+	background-repeat: no-repeat;
+	background-color: #000066;
+}
+
+.tCDescriptionLabel
+{
+	color: white;
+}
+.tCInput
+{
+	color: White;
+	/*
+	border-right: #cc0066 thin solid;
+	border-top: #cc0066 thin solid;
+	border-left: #cc0066 thin solid;
+	border-bottom: #cc0066 thin solid;
+	*/
+}
+#dhtmlgoodies_tooltip
+{
+		background-color:#EEE;
+		border:1px solid #000;
+		position:absolute;
+		display:none;
+		z-index:20000;
+		padding:2px;
+		font-size:0.9em;
+		-moz-border-radius:6px;	/* Rounded edges in Firefox */
+		font-family: Arial;
+		
+}
+#dhtmlgoodies_tooltipShadow
+{
+		position:absolute;
+		background-color:#555;
+		display:none;
+		z-index:10000;
+		opacity:0.7;
+		filter:alpha(opacity=70);
+		-khtml-opacity: 0.7;
+		-moz-opacity: 0.7;
+		-moz-border-radius:6px;	/* Rounded edges in Firefox */
+}
+
+
+
+  
+
+
+
+
+
+
+
